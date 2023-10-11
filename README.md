@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mouin.
 - 👀 I’m interested in Coding, Problem Solving, UI/UX design, and social activities.
-- 🌱 I’m currently learning web development and different programming languages(C++,python,javascript,react).
+- 🌱 I’m currently learning full stack development and different programming languages(C++,python,javascript,react).
 - 💞️ I’m looking to collaborate on projects that allow me to use or develop my skills. 
 - 📫 How to reach me Ln:Mohamed Mouin Boubarki E-mail:mouinbkr@gmail.com
 
