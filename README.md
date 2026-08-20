@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">👋 Mouin Boubakri. Last-year CS wizard @ ISAMM. I transpile TypeScript with Vite, craft self-healing UIs in React, and dream in API schemas. My stack's clean, my code is type-safe, and my git push is relentless. Seeking my next quest on the global stage.</p>
+<p align="left">👋 Mouin Boubakri. Full-Stack wizard @ CLARRIO. I transpile TypeScript with Vite, craft self-healing UIs in React, and dream in API schemas. My stack's clean, my code is type-safe, and my git push is relentless.</p>
 
 ###
 
