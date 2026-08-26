@@ -74,6 +74,20 @@
 
 ###
 
+<h3 align="left">🔥   Certifications :</h3>
+
+###
+[![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/535a7fdd-e467-4769-8c63-bf61ff2065ca.jpeg?v=1783908467)](https://www.boot.dev/certificates/535a7fdd-e467-4769-8c63-bf61ff2065ca)
+
+[![Boot.dev Learn HTTP Clients in TypeScript certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/d658fa95-9bb9-41af-9a84-482a9f8b8805.jpeg?v=1781842329)](https://www.boot.dev/certificates/d658fa95-9bb9-41af-9a84-482a9f8b8805)
+
+[![Boot.dev Learn Docker certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/9cbb7128-175c-40fa-80f6-f9dc32045f10.jpeg?v=1787756587)](https://www.boot.dev/certificates/9cbb7128-175c-40fa-80f6-f9dc32045f10)
+
+[![Boot.dev Learn SQL certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/8206c02b-3542-4882-9a23-eaaff84bb305.jpeg?v=1787723595)](https://www.boot.dev/certificates/8206c02b-3542-4882-9a23-eaaff84bb305)
+
+[![Boot.dev Learn TypeScript certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/7c40a322-2f32-42a2-9094-d23222fa617e.jpeg?v=1783908467)](https://www.boot.dev/certificates/7c40a322-2f32-42a2-9094-d23222fa617e)
+###
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
