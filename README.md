@@ -74,7 +74,19 @@
 
 ###
 
-<h3 align="left">🔥   Certifications :</h3>
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Mouin-bkr&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+###
+
+<h3 align="left">📚 Certifications :</h3>
 
 ###
 [![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/535a7fdd-e467-4769-8c63-bf61ff2065ca.jpeg?v=1783908467)](https://www.boot.dev/certificates/535a7fdd-e467-4769-8c63-bf61ff2065ca)
@@ -86,14 +98,4 @@
 [![Boot.dev Learn SQL certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/8206c02b-3542-4882-9a23-eaaff84bb305.jpeg?v=1787723595)](https://www.boot.dev/certificates/8206c02b-3542-4882-9a23-eaaff84bb305)
 
 [![Boot.dev Learn TypeScript certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/7c40a322-2f32-42a2-9094-d23222fa617e.jpeg?v=1783908467)](https://www.boot.dev/certificates/7c40a322-2f32-42a2-9094-d23222fa617e)
-###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mouin-bkr&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
