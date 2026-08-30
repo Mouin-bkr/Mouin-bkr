@@ -33,10 +33,6 @@
 
 ###
 
-<p align="left">
-  <img src="https://api.boot.dev/v1/users/public/d6d85e0b-7fdb-4c8a-99dd-e63009dcd7e5/thumbnail" >
-</p>
-
 <p align="left">👋 Mouin Boubakri. Full-Stack wizard @ CLARRIO. I transpile TypeScript with Vite, craft self-healing UIs in React, and dream in API schemas. My stack's clean, my code is type-safe, and my git push is relentless.</p>
 
 ###
@@ -91,9 +87,14 @@
 
 ###
 
-<h3 align="left">📚 Certifications :</h3>
+<h3 align="left">📚 Boot Dev Profile & Certifications :</h3>
 
 ###
+
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/d6d85e0b-7fdb-4c8a-99dd-e63009dcd7e5/thumbnail" >
+</p>
+
 [![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/535a7fdd-e467-4769-8c63-bf61ff2065ca.jpeg?v=1783908467)](https://www.boot.dev/certificates/535a7fdd-e467-4769-8c63-bf61ff2065ca)
 
 [![Boot.dev Learn HTTP Clients in TypeScript certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/d658fa95-9bb9-41af-9a84-482a9f8b8805.jpeg?v=1781842329)](https://www.boot.dev/certificates/d658fa95-9bb9-41af-9a84-482a9f8b8805)
