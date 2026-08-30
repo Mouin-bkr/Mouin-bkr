@@ -30,7 +30,12 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
+
 ###
+
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/d6d85e0b-7fdb-4c8a-99dd-e63009dcd7e5/thumbnail" >
+</p>
 
 <p align="left">👋 Mouin Boubakri. Full-Stack wizard @ CLARRIO. I transpile TypeScript with Vite, craft self-healing UIs in React, and dream in API schemas. My stack's clean, my code is type-safe, and my git push is relentless.</p>
 
